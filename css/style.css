@@ -80,6 +80,7 @@ nav ul li a:hover{
     color: #e2e2e2;
 }
 .main-btn{
+  
     width: 120px;
     height: 40px;
     display: flex;
@@ -89,11 +90,16 @@ nav ul li a:hover{
     border-radius: 10px;
     color: #fff;
     transition: 0.6s ease-in-out;
+    
 }
 .main-btn:hover{
     box-shadow: 5px 10px 30px rgba(252, 59, 0, 0.397);
+    
 }
 
+.btn:hover {
+    cursor: pointer;
+}
 .features{
     width: 100%;
     height: 90vh;

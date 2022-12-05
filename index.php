@@ -66,9 +66,9 @@
             <img src="images/about.png">
         </div>
         <div class="about-text">
-            <h2>Start Tracking Your Statistics</h2>
+            <h2>Start Tracking Your Statistics </h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad cumque eum quia magni, voluptatibus nesciunt vero. Reprehenderit fugiat soluta ullam praesentium, omnis autem voluptatibus quae.</p>
-            <button class="main-btn">Read More</button>
+            <button class="main-btn btn">Read More</button>
         </div>
     </section>
     <footer id="contact" class="contact">
@@ -80,7 +80,7 @@
             <input type="text" name="username" placeholder="Your Full Name"/>
             <input type="email" name="email" placeholder="Your E-Mail"/>
             <textarea name="message" placeholder="Type Your Message Here.........."></textarea>
-            <button class="main-btn contact-btn" type="submit">Continue</button>
+            <button class="main-btn contact-btn btn" type="submit">Continue</button>
         </form>
     </footer>
 </body>
